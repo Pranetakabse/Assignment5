@@ -1,0 +1,23 @@
+{"Cars":[
+	{ "ID":"001","Brand":"Maruti", "Model":"Swift", "Throttle":"503", "Mileage":"42KMPL", "Year":"2020" },
+	{ "ID":"001","Brand":"Maruti", "Model":"Ritz", "Throttle":"346", "Mileage":"23KMPL", "Year":"2019" },
+	{ "ID":"001","Brand":"Maruti", "Model":"Dezire", "Throttle":"259", "Mileage":"26KMPL", "Year":"2018" },
+	{ "ID":"002","Brand":"Tata", "Model":"Sumo", "Throttle":"678", "Mileage":"16KMPL", "Year":"2019" },
+	{ "ID":"002","Brand":"Tata", "Model":"Nano", "Throttle":"410", "Mileage":"23KMPL", "Year":"2018" },
+	{ "ID":"002","Brand":"Tata", "Model":"Safari", "Throttle":"378", "Mileage":"19KMPL", "Year":"2019" },
+	{ "ID":"003","Brand":"Mercedes", "Model":"G-Class", "Throttle":"420", "Mileage":"26KMPL", "Year":"2018" },
+	{ "ID":"003","Brand":"Mercedes", "Model":"GLC", "Throttle":"385", "Mileage":"19KMPL", "Year":"2018" },
+	{ "ID":"003","Brand":"Mercedes", "Model":"E-Class", "Throttle":"260", "Mileage":"21KMPL", "Year":"2019" },
+	{ "ID":"004","Brand":"Toyota", "Model":"Innova", "Throttle":"312", "Mileage":"20KMPL", "Year":"2018" },
+	{ "ID":"004","Brand":"Toyota", "Model":"Etios", "Throttle":"357", "Mileage":"26KMPL", "Year":"2018" },
+	{ "ID":"004","Brand":"Toyota", "Model":"Fortuner", "Throttle":"380", "Mileage":"22KMPL", "Year":"2019" },	
+	{ "ID":"005","Brand":"BMW", "Model":"Series-5", "Throttle":"255", "Mileage":"23KMPL", "Year":"2016" },
+	{ "ID":"005","Brand":"BMW", "Model":"Series-7", "Throttle":"328", "Mileage":"20KMPL", "Year":"2017" },
+	{ "ID":"005","Brand":"BMW", "Model":"X3", "Throttle":"345", "Mileage":"22KMPL", "Year":"2017" },
+	{ "ID":"006","Brand":"Honda", "Model":"Raze", "Throttle":"235", "Mileage":"24KMPL", "Year":"2020" },
+	{ "ID":"006","Brand":"Honda", "Model":"City Dolphin", "Throttle":"310", "Mileage":"21KMPL", "Year":"2020" },
+	{ "ID":"006","Brand":"Honda", "Model":"Amaze", "Throttle":"280", "Mileage":"21KMPL", "Year":"2019" },
+	{ "ID":"007","Brand":"Kia", "Model":"Agro", "Throttle":"300", "Mileage":"24KMPL", "Year":"2019" },
+	{ "ID":"007","Brand":"Kia", "Model":"Seltos", "Throttle":"246", "Mileage":"23KMPL", "Year":"2020" },
+	{ "ID":"007","Brand":"Kia", "Model":"DerV", "Throttle":"247", "Mileage":"21KMPL", "Year":"2019" }	
+]}
